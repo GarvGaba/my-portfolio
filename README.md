@@ -9,5 +9,4 @@ Welcome to my portfolio website!
 - TailwindCSS
 
 ## Contact
-- 📧 Email: ggaba3855@gmail.com
 - 🌐 [Visit Portfolio](https://garvgaba.github.io/my-portfolio)
