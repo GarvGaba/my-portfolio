@@ -23,12 +23,12 @@ export default function App({ Component, pageProps }) {
 		}
 	}, [loading]);
 
-	const title = "Portfolio | Shivam Sharma";
+	const title = "Portfolio | Garv Gaba";
 	const description =
-		"Hello! I'm Shivam Sharma, a passionate web developer and problem solver. Welcome to my portfolio";
+		"Hello! I'm Garv Gaba, a passionate web developer and problem solver. Welcome to my portfolio";
 	const avatar =
-		"https://res.cloudinary.com/dyle3hnpw/image/upload/v1696091629/portfolio/WhatsApp_Image_2023-09-30_at_10.02.55_PM_jk44v9.jpg";
-	const url = "https://shivam-sharma-myportfolio.vercel.app/";
+		"/assets/avatar.png";
+	const url = "https://garv-gaba.netlify.app/";
 
 	return (
 		<>
